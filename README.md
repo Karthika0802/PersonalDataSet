@@ -23,9 +23,9 @@ The data required quite a bit of processing, as all which was provided was the d
 
 The following is a visualization of the round by round results
 
-![1st round](https://github.com/Karthika0802/PersonalDataSet/blob/master/1st%20round%20vote.png)
-![2nd round](https://github.com/Karthika0802/PersonalDataSet/blob/master/2nd%20round%20vote.png)
-![3rd round](https://github.com/Karthika0802/PersonalDataSet/blob/master/3rd%20round%20vote.png)
+![1st round](https://github.com/Karthika0802/PersonalDataSet/blob/master/1st%20round.png)
+![2nd round](https://github.com/Karthika0802/PersonalDataSet/blob/master/2nd%20round.png)
+![3rd round](https://github.com/Karthika0802/PersonalDataSet/blob/master/3rd%20round.png)
 
 
 
