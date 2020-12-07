@@ -24,12 +24,15 @@ The data required quite a bit of processing, as all which was provided was the d
 The following is a visualization of the round by round results
 
 Here are the initial tallies of the first round after only eliminating and invalidating overvotes. As can be observed, Bruce Poliquin has a slight advantage over Jared Golden.
+
 ![1st round](https://github.com/Karthika0802/PersonalDataSet/blob/master/1st%20round.png)
 
 In the second round, Will Hoar is eliminated. His votes are redistributed to the other candidates
+
 ![2nd round](https://github.com/Karthika0802/PersonalDataSet/blob/master/2nd%20round.png)
 
 In the third round Tiffany Bond is eliminated and once again votes are redistributed. The election result reversed as Jared Golden gains a slight lead with redistributed votes included
+
 ![3rd round](https://github.com/Karthika0802/PersonalDataSet/blob/master/3rd%20round.png)
 
 
